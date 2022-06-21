@@ -8,5 +8,5 @@ import lombok.Setter;
 public class Designation {
 private Long id;
 private String Name;
-private String Address;
+private String Adds;
 }
